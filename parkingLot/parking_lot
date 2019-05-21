@@ -1,0 +1,4 @@
+mvn clean install 
+java -jar target/gojek-parking-lot.jar $1
+
+
