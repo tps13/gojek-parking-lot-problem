@@ -75,7 +75,7 @@
 				  <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>com.gojek.Main</mainClass>
+						<mainClass>com.tps.Main</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>

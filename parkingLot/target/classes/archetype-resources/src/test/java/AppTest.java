@@ -1,4 +1,4 @@
-package $com.go.jek;
+package $com.go.tps;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

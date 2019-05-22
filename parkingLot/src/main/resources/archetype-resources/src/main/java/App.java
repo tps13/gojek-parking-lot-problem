@@ -1,4 +1,4 @@
-package $com.go.jek;
+package $com.go.tps;
 
 /**
  * Hello world!

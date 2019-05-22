@@ -1,4 +1,4 @@
-package com.gojek;
+package com.tps;
 
 import static org.junit.Assert.assertTrue;
 
